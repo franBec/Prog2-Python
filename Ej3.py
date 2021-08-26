@@ -1,0 +1,10 @@
+#Operaciones algebraicas
+print("")
+print("///Ejercicio 3///")
+print("")
+x = int(input("Asigne valor numerico a x: "))
+y = int(input("Asigne valor numerico a y: "))
+print("Division entera: ", x//y)
+print("Division decimal: ", x/y)
+print("Modulo: ", x%y)
+print("Potencia: ", x**y)
